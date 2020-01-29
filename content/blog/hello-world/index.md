@@ -1,22 +1,17 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: An Introduction
+date: "2020-01-29T03:29:36.465"
+description: "A brief introduction to this blog"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Welcome!
 
-I'm sure I'll write a lot more interesting things in the future.
+This is more or less a placeholder post before I start to get real content up. I am migrating
+my abandoned blog from Ghost to GatsbyJS in the hopes of giving it the attention it deserves. This
+blog will mostly be a reference for myself on the aspects of development I often find myself having
+to look up time and time again.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+Topics will range from front-end, to back-end, and devops. I enjoy working with Docker and writing
+APIs with Node and GraphQL. Most of the tools used here are not tools I get to enjoy at my daily
+job. So this blog is sort of a escape to better hone my skills and to experience what the community
+has to offer.
