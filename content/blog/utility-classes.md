@@ -1,4 +1,8 @@
-# A Case Against Utility Classes
+---
+title: Utility Classes
+date: "2020-01-29T03:29:36.465"
+description: "A reflection on why utility casses maybe aren't so great"
+---
 
 Lately there appears to be a profound interest in CSS utility classes. Maybe this is just due to the [Baader-Meinhof Phenomenon](https://www.healthline.com/health/baader-meinhof-phenomenon)
 but a popular library -- [tailwindcss](https://tailwindcss.com/) -- is seemingly everwhere! tailwindcss argues that CSS frameworks do
