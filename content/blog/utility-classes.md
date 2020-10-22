@@ -1,6 +1,6 @@
 ---
 title: Utility Classes
-date: "2020-01-29T03:29:36.465"
+date: "2020-10-22T15:32:44.604Z"
 description: "A reflection on why utility casses maybe aren't so great"
 ---
 
@@ -10,8 +10,6 @@ too much and since they offer predesigned components, building is initially fast
 a bunch of low-level CSS classes that "let you build completely custom designs without ever leaving your HTML." They aren't the only
 library to offer this though. Bootstrap -- arguably the framework tailwindcss is accusing of "doing too much" -- has these same
 set of utility classes.
-
-[comment]: <> (Have gif demonstrating tailwindcss)
 
 This all sounds great... but I don't get it.
 
