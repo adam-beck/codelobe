@@ -30,8 +30,7 @@ const Bio = () => {
       }}
     >
       <p>
-        Written by <strong>{author}</strong> who lives and works in Minster,
-        Ohio!
+        Written by <strong>{author}</strong>
       </p>
     </div>
   )
